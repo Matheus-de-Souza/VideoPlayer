@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "name": "com.dawsonloudon.videoplayer",
+  "cordova_name": "VideoPlayer",
+  "description": "Play video with native support for android.",
+  "license": "MIT",
+  "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
+  "cordova": {
+    "id": "com.dawsonloudon.videoplayer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus-de-Souza/VideoPlayer.git"
+  },
+  "keywords": [
+    "cordova",
+    "android",
+    "video player",
+    "video"
+  ]
+}
